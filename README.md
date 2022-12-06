@@ -23,5 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# ecommerce-catalog
->>>>>>> 7475cd32ff98fa8ee8d40e0cbfe11b6b44c81ab9
+### ecommerce-catalog
